@@ -1,0 +1,14 @@
+name: worldofexit
+layout_spectrum: 0.9701862658885033
+typography_spectrum: 0.30175764121398063
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.7470823845306107
+  lightness: 0.5396050322094657
+  saturation: 0.9214502819938915
+  rhythmicContrast: 0.06301780585195205
